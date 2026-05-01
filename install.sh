@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_BASE="https://raw.githubusercontent.com/willi84/kiosk-pi/main/test-pi"
+REPO_BASE="https://raw.githubusercontent.com/willi84/test-pi/main"
 
 echo "⬇️ Lade Test-Pi Dateien..."
 
