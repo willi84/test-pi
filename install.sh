@@ -13,3 +13,4 @@ chmod +x setup.sh
 echo "✅ Fertig"
 echo "📝 Config anpassen: nano config.env"
 echo "🧪 Setup starten: ./setup.sh"
+./setup.sh
